@@ -5,7 +5,7 @@
   "version": "0.17.10",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cube-js/cube.js.git",
+    "url": "https://github.com/theseusyang/Cube.git",
     "directory": "packages/cubejs-clickhouse-driver"
   },
   "engines": {
