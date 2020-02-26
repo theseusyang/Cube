@@ -1,0 +1,31 @@
+{
+  "name": "@cubejs-client/ws-transport",
+  "version": "0.17.10",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cube-js/cube.js.git",
+    "directory": "packages/cubejs-client-ws-transport"
+  },
+  "description": "Cube.js WebSocket transport",
+  "main": "dist/cubejs-client-ws-transport.js",
+  "author": "Statsbot, Inc.",
+  "dependencies": {
+    "@babel/runtime": "^7.1.2",
+    "core-js": "^2.5.3",
+    "isomorphic-ws": "^4.0.1"
+  },
+  "files": [
+    "src",
+    "dist"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.3.3",
+    "@babel/preset-env": "^7.3.1",
+    "babel-jest": "^24.1.0",
+    "jest": "^24.1.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

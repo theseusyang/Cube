@@ -1,0 +1,21 @@
+{
+  "name": "@cubejs-backend/athena-driver",
+  "description": "Cube.js Athena database driver",
+  "author": "Statsbot, Inc.",
+  "version": "0.17.10",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cube-js/cube.js.git",
+    "directory": "packages/cubejs-athena-driver"
+  },
+  "engines": {
+    "node": ">=8.11.1"
+  },
+  "main": "driver/AthenaDriver.js",
+  "dependencies": {
+    "@cubejs-backend/query-orchestrator": "^0.17.10",
+    "aws-sdk": "^2.403.0",
+    "sqlstring": "^2.3.1"
+  },
+  "license": "Apache-2.0"
+}
