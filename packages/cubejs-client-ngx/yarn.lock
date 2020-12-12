@@ -804,13 +804,13 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@cubejs-client/core@^0.17.9":
-  version "0.17.9"
-  resolved "https://registry.yarnpkg.com/@cubejs-client/core/-/core-0.17.9.tgz#e91140a9ff8debdcc7da8145fd554bc400a5dac1"
-  integrity sha512-zgZIY3bZUfG8fbdy833kFZnxM44dvW/7qQ+R/94zaY4TaLqYNBvXJXYoEreEnBLMlV78DPfkEehKmb/b+jgqZA==
+"@cubejs-client/core@^0.17.10":
+  version "0.17.10"
+  resolved "https://registry.yarnpkg.com/@cubejs-client/core/-/core-0.17.10.tgz#4c84338f15f690e62aa2f352f6597f462e1b74eb"
+  integrity sha512-EnjajYrw6krXIzxMDIwLeihrpu54pr2tV8j2kz0Zi/RhztS9uPVWEUKT34TmscZSJiIfEPOLJYliA/YSe2f+4g==
   dependencies:
     "@babel/runtime" "^7.1.2"
-    core-js "^3.6.4"
+    core-js "^2.5.3"
     cross-fetch "^3.0.2"
     moment "^2.22.2"
     moment-range "^4.0.1"
@@ -2190,10 +2190,10 @@ core-js@^2.4.0:
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-2.6.9.tgz#6b4b214620c834152e179323727fc19741b084f2"
   integrity sha512-HOpZf6eXmnl7la+cUdMnLvUxKNqLUzJvgIziQ0DiF3JwSImNphIqdGqzj6hIKyX04MmV0poclQ7+wjWvxQyR2A==
 
-core-js@^3.6.4:
-  version "3.6.4"
-  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.6.4.tgz#440a83536b458114b9cb2ac1580ba377dc470647"
-  integrity sha512-4paDGScNgZP2IXXilaffL9X7968RuvwlkK3xWtZRVqgd8SYNiVKRJvkFd1aqqEuPfN7E68ZHEp9hDj6lHj4Hyw==
+core-js@^2.5.3:
+  version "2.6.12"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-2.6.12.tgz#d9333dfa7b065e347cc5682219d6f690859cc2ec"
+  integrity sha512-Kb2wC0fvsWfQrgk8HU5lW6U/Lcs8+9aaYcy4ZFc6DDlo4nZ7n70dEgE5rtR0oG6ufKDUnrwfWL1mXR5ljDatrQ==
 
 core-util-is@1.0.2, core-util-is@~1.0.0:
   version "1.0.2"
@@ -3526,9 +3526,9 @@ inherits@2.0.4, inherits@^2.0.1, inherits@~2.0.1:
   integrity sha512-k/vGaX4/Yla3WzyMCvTQOXYeIHvqOKtnqBduzTHpzpQZzAskKMhZ2K+EnBiSM9zGSoIFeMpXKxa4dYeZIQqewQ==
 
 ini@^1.3.4, ini@~1.3.0:
-  version "1.3.5"
-  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.5.tgz#eee25f56db1c9ec6085e0c22778083f596abf927"
-  integrity sha512-RZY5huIKCMRWDUqZlEi72f/lmXKMvuszcMBduliQ3nnWbx9X/ZBQO7DijMEYS9EhHBb2qacRUMtC7svLwe0lcw==
+  version "1.3.8"
+  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.8.tgz#a29da425b48806f34767a4efce397269af28432c"
+  integrity sha512-JV/yugV2uzW5iMRSiZAyDtQd+nxtUnjeLt0acNdw98kKLrvuRVyB80tsREOE7yvGVgalhZ6RNXCmEHkUKBKxew==
 
 injection-js@^2.2.1:
   version "2.2.1"
